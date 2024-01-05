@@ -1,5 +1,5 @@
 {
-    "name": "mhetreramesh/flysystem-backblaze",
+    "name": "gwhizofss/flysystem-backblaze",
     "type": "library",
     "description": "Backblaze adapter for the flysystem filesystem abstraction library",
     "keywords": ["flysystem", "filesystem", "api", "backblaze", "client"],
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Mhetreramesh\\Flysystem\\": "src"
+            "Gwhizofss\\Flysystem\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mhetreramesh\\Flysystem\\Tests\\": "tests"
+            "Gwhizofss\\Flysystem\\Tests\\": "tests"
         }
     },
     "scripts": {
